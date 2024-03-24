@@ -43,11 +43,15 @@ Example workflows and screenshots
 
 ## Examples
 ![alt text](images/Comparison.png)
-input:
+
+input:<BR>
 ![alt text](images/Input.png)
-Less Detail (Detail Multiplier 0.2)
+
+Less Detail (Detail Multiplier 0.2)<BR>
 ![alt text](images/Output-lessdetail.png)
-Detail 2
+
+Detail 2<BR>
 ![alt text](images/Output-Detail2.png)
-Detail 3
+
+Detail 3<BR>
 ![alt text](images/Outpu-Detail3.png)
