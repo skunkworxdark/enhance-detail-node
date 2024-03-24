@@ -1,4 +1,6 @@
 # `enhance_detail` for InvokeAI (v4.0+)
+Discord Link :- [enhance_detail](https://discord.com/channels/1020123559063990373/1217543565698138183)
+
 A single node that can enhance the detail in an image. Increase or decrease details in an image using a guided filter (as opposed to the typical Gaussian blur used by most sharpening filters.) Based on the `Enhance Detail` ComfyUI node from  https://github.com/spacepxl/ComfyUI-Image-Filters
 
 
