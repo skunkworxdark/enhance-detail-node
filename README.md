@@ -26,7 +26,12 @@ There are two options to install the nodes:
     git clone https://github.com/skunkworxdark/enhance-detail-node.git
     ```
 
-2. Manually download [enhance_detail.py](enhance_detail.py) & [__init__.py](__init__.py) then place them in a subfolder under `invokeai/nodes`. 
+    yo might need to install
+    ```bash
+    pip install opencv-python opencv-contrib-python
+    ```
+
+3. Manually download [enhance_detail.py](enhance_detail.py) & [__init__.py](__init__.py) then place them in a subfolder under `invokeai/nodes`. 
 
 ### <ins>Update</ins><BR>
 Run a `git pull` from the `enhance-detail-node` folder.
