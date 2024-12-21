@@ -26,9 +26,15 @@ There are two options to install the nodes:
     git clone https://github.com/skunkworxdark/enhance-detail-node.git
     ```
 
-    you might need to install into invokes venv
+    You might need to install into invokes venv
     ```bash
     pip install opencv-contrib-python
+    ```
+
+    For the new invoke launcher with `uv` managing the installation you might need to do the following. (note you will need uv installed first)
+    ```
+    uv pip uninstall opencv-python opencv-contrib-python
+    uv pip install opencv-python opencv-contrib-python
     ```
 
 3. Manually download [enhance_detail.py](enhance_detail.py) & [__init__.py](__init__.py) then place them in a subfolder under `invokeai/nodes`. 
